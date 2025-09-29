@@ -1,0 +1,501 @@
+Wijnsoort,Gerecht,Ingrediënten,Afkomst
+Pinot Grigio,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Chenin Blanc,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Gamay,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Bordeaux-style Red Blend,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Aglianico,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Chardonnay,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Garnacha,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Sangiovese,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Grenache,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Port,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Pinot Noir,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Garganega,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Cabernet Franc,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Gamay,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Sparkling Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Glera,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Rhône-style White Blend,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Riesling,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Riesling,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Zinfandel,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Viognier,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Gewürztraminer,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Grüner Veltliner,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Chenin Blanc,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Verdejo,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Carmenère,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Grenache,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Moscato,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Carmenère,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Sauvignon,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Riesling,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Albariño,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Sparkling Blend,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Portuguese Red,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Portuguese White,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Sauvignon,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Grüner Veltliner,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Garganega,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Rhône-style Red Blend,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Melon,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Pinot Noir,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Melon,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Carmenère,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Malbec,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Viognier,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Albariño,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Sangiovese,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Sparkling Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Rhône-style Red Blend,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Shiraz,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Viognier,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Riesling,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Nero d'Avola,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Pinot Blanc,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Port,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Rhône-style Red Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Red Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Red Blend,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Rhône-style Red Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Garnacha,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Nebbiolo,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Malbec,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Tempranillo Blend,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Pinot Gris,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Moscato,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Shiraz,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Rhône-style Red Blend,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Barbera,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Verdejo,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Nero d'Avola,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Pinot Gris,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Pinot Blanc,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Malbec,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Port,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Albariño,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Red Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+White Blend,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Syrah,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Nebbiolo,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Chenin Blanc,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Petite Sirah,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Rhône-style Red Blend,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Petite Sirah,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Grüner Veltliner,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Rhône-style Red Blend,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Rosé,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Cabernet Sauvignon,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Port,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Cabernet Franc,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Gewürztraminer,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Sauvignon Blanc,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Sparkling Blend,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Port,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Rhône-style Red Blend,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+"Corvina, Rondinella, Molinara",Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Syrah,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Aglianico,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Zinfandel,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Gewürztraminer,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Red Blend,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Bordeaux-style Red Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Pinot Blanc,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Tempranillo Blend,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Pinot Grigio,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Riesling,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Red Blend,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Aglianico,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Pinot Grigio,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Zinfandel,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Garnacha,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Barbera,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Verdejo,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Tempranillo Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Verdejo,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Rhône-style Red Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Sauvignon,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Grüner Veltliner,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Sparkling Blend,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Gewürztraminer,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Rhône-style Red Blend,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Sauvignon,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Aglianico,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Sauvignon Blanc,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Tempranillo,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Cabernet Franc,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+White Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Sangiovese,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Tempranillo Blend,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Red Blend,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+"Corvina, Rondinella, Molinara",Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Pinot Gris,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Grenache,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Glera,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Viognier,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Tempranillo,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Pinot Gris,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Zinfandel,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Rhône-style White Blend,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Melon,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Gamay,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Garnacha,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Garganega,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Sparkling Blend,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Sauvignon Blanc,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Rosé,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Bordeaux-style White Blend,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Merlot,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Portuguese White,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Cabernet Sauvignon,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Gewürztraminer,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Aglianico,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Glera,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Rhône-style White Blend,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Albariño,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+"Corvina, Rondinella, Molinara",Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Rosé,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+White Blend,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Gewürztraminer,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Gamay,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Bordeaux-style White Blend,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Tempranillo,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Aglianico,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Portuguese Red,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Bordeaux-style White Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Rhône-style White Blend,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Barbera,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Tempranillo,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Merlot,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Nero d'Avola,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Barbera,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Grüner Veltliner,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Syrah,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Garnacha,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Bordeaux-style White Blend,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Pinot Blanc,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Gamay,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Sauvignon,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Verdejo,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Aglianico,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Tempranillo,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Rosé,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Rhône-style White Blend,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Verdejo,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Riesling,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Petite Sirah,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Tempranillo Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Viognier,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Aglianico,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Pinot Noir,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Pinot Grigio,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Pinot Noir,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Bordeaux-style Red Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Rhône-style Red Blend,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Glera,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Sangiovese Grosso,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Melon,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Grenache,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Gewürztraminer,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Chenin Blanc,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Sauvignon Blanc,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Garganega,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Portuguese Red,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Garganega,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Shiraz,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Garganega,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Riesling,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Sangiovese Grosso,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Petite Sirah,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Rhône-style Red Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Champagne Blend,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+"Corvina, Rondinella, Molinara",Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Portuguese White,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Riesling,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Chenin Blanc,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+White Blend,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Shiraz,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Pinot Blanc,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Sparkling Blend,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Bordeaux-style White Blend,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Barbera,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Portuguese White,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Red Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Gamay,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Albariño,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Bordeaux-style White Blend,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Pinot Gris,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Pinot Blanc,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Gamay,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Sparkling Blend,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Grenache,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Aglianico,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Pinot Gris,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Sauvignon Blanc,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Petite Sirah,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Garganega,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Cabernet Franc,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Grenache,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Portuguese White,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Pinot Noir,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Syrah,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Bordeaux-style White Blend,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Carmenère,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Nero d'Avola,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Red Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Garnacha,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Petite Sirah,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Syrah,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Sauvignon,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Merlot,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Garganega,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Merlot,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Port,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+"Corvina, Rondinella, Molinara",Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Pinot Gris,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Grüner Veltliner,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Merlot,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Cabernet Sauvignon,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Viognier,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Gamay,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+"Corvina, Rondinella, Molinara",Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Sparkling Blend,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Grenache,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Garnacha,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Carmenère,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Tempranillo Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Merlot,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Portuguese White,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Sauvignon Blanc,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Grüner Veltliner,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Aglianico,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Cabernet Sauvignon,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Viognier,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Pinot Gris,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Pinot Blanc,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Riesling,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Gamay,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Shiraz,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Sauvignon,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Portuguese Red,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Portuguese White,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+"Corvina, Rondinella, Molinara",Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Portuguese Red,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Sauvignon Blanc,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Cabernet Franc,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Rosé,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Carmenère,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Riesling,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Pinot Gris,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Tempranillo Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Bordeaux-style White Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Verdejo,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Gewürztraminer,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Moscato,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Carmenère,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Petite Sirah,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Tempranillo Blend,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Rosé,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Malbec,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Rosé,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Riesling,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Garnacha,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Carmenère,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Sparkling Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Champagne Blend,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Barbera,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Pinot Grigio,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Chardonnay,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Sauvignon,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Cabernet Sauvignon,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Rosé,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Verdejo,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Garganega,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Grüner Veltliner,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Riesling,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Albariño,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Cabernet Sauvignon,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+"Corvina, Rondinella, Molinara",Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Portuguese Red,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Bordeaux-style White Blend,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Port,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Zinfandel,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Verdejo,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Grüner Veltliner,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Sauvignon,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Nero d'Avola,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Champagne Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Red Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Portuguese White,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Albariño,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Aglianico,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Champagne Blend,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Sauvignon,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Sparkling Blend,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Syrah,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Gewürztraminer,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Pinot Gris,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Sauvignon,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Petite Sirah,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Sangiovese Grosso,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Melon,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Chardonnay,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Glera,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Albariño,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Syrah,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Port,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+"Corvina, Rondinella, Molinara",Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Riesling,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Pinot Blanc,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Albariño,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Carmenère,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Sauvignon Blanc,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Portuguese Red,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Sangiovese Grosso,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Barbera,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Nero d'Avola,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+White Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Bordeaux-style White Blend,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Carmenère,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Viognier,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Bordeaux-style Red Blend,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Petite Sirah,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Bordeaux-style White Blend,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Gewürztraminer,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Sauvignon,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Pinot Noir,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Portuguese White,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Nebbiolo,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Merlot,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Chardonnay,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Grüner Veltliner,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Gewürztraminer,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Sangiovese,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Sangiovese Grosso,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Pinot Grigio,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Viognier,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Pinot Grigio,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Red Blend,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Riesling,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Gamay,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+"Corvina, Rondinella, Molinara",Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Tempranillo,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Grüner Veltliner,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Port,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Grüner Veltliner,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Garnacha,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Melon,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+White Blend,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Viognier,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Bordeaux-style Red Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Syrah,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Tempranillo,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Nebbiolo,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Melon,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Carmenère,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Glera,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Syrah,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Port,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Sangiovese Grosso,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Chenin Blanc,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Viognier,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Grüner Veltliner,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Red Blend,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Sangiovese,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Rosé,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Cabernet Franc,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+White Blend,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Port,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Cabernet Sauvignon,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Albariño,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Nero d'Avola,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Pinot Noir,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Sangiovese,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Tempranillo,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Gewürztraminer,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Rhône-style Red Blend,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Tempranillo Blend,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+"Corvina, Rondinella, Molinara",Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Chenin Blanc,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Albariño,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Sauvignon,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Tempranillo Blend,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Chardonnay,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Bordeaux-style White Blend,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Pinot Noir,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Sauvignon,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Albariño,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Chenin Blanc,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+White Blend,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Garganega,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Shiraz,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Bordeaux-style White Blend,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Grüner Veltliner,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Gewürztraminer,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Port,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Port,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Sauvignon Blanc,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Cabernet Sauvignon,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Chenin Blanc,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Garganega,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Merlot,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Red Blend,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Chenin Blanc,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Sauvignon,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Pinot Grigio,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Barbera,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Nero d'Avola,Pizza Margherita,"pizzadeeg, tomatensaus, mozzarella, basilicum",Italiaans
+Cabernet Sauvignon,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Bordeaux-style White Blend,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Malbec,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Cabernet Sauvignon,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Red Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Nero d'Avola,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Tempranillo Blend,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Chenin Blanc,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Champagne Blend,Risotto ai funghi,"risottorijst, paddenstoelen, Parmezaan, bouillon",Italiaans
+Sangiovese,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Melon,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Pinot Gris,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Rhône-style Red Blend,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Verdejo,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Verdejo,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Petite Sirah,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Barbera,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Pinot Gris,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Albariño,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Red Blend,Bouillabaisse,"vis, schaaldieren, venkel, saffraan",Frans
+Riesling,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Sauvignon Blanc,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Carmenère,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Syrah,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Aglianico,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Rosé,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Melon,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Sauvignon,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Gewürztraminer,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+White Blend,Gazpacho,"tomaten, paprika, komkommer, knoflook, olijfolie",Spaans
+Merlot,Spaghetti carbonara,"spaghetti, spek, eidooiers, Parmezaan, peper",Italiaans
+Bordeaux-style White Blend,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Pinot Gris,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Gewürztraminer,Bruschetta,"stokbrood, tomaat, basilicum, olijfolie",Italiaans
+Grüner Veltliner,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+White Blend,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Garganega,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Pinot Gris,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
+Chardonnay,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Cabernet Sauvignon,Tortilla Española,"aardappelen, ui, olijfolie, eieren",Spaans
+Rhône-style Red Blend,Quiche Lorraine,"bladerdeeg, spek, room, eieren, kaas",Frans
+Viognier,Vitello tonnato,"kalfsvlees, tonijnsaus, kappertjes",Italiaans
+Pinot Grigio,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Shiraz,Tarte Tatin,"appels, bladerdeeg, suiker, boter",Frans
+Grüner Veltliner,Osso buco,"kalfschenkel, witte wijn, wortel, selderij",Italiaans
+Moscato,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Rhône-style White Blend,Coq au vin,"kip, rode wijn, ui, wortel, champignons",Frans
+Nebbiolo,Lasagne,"lasagnebladen, gehakt, tomatensaus, béchamel, kaas",Italiaans
+Albariño,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Verdejo,Ratatouille,"aubergine, courgette, paprika, tomaat, knoflook",Frans
+Grüner Veltliner,Penne all'arrabbiata,"penne, tomaten, knoflook, chilipeper, peterselie",Italiaans
+Sauvignon,Moules frites,"mosselen, ui, selderij, friet",Belgisch
+Sparkling Blend,Boerenkool stamppot,"boerenkool, aardappelen, rookworst, spekjes",Nederlands
+Zinfandel,Paella,"rijst, saffraan, kip, garnalen, mosselen, paprika",Spaans
